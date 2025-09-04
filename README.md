@@ -2,7 +2,7 @@
 
 - 动态与公告
 
-  - [新功能发布记录](UPLVR/newfunctions/newfunctions.md)
+  - [新功能发布记录](uplvr/newfunctions/newfunctions.md)
 - 产品介绍
 
   - [产品概述](UPLVR/intro/description.md)
