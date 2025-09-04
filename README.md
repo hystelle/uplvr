@@ -9,7 +9,7 @@
   - [产品功能](/Uplvr/intro/function.md)
   - [产品优势](/Uplvr/intro/advantages.md)
   - [使用限制](/Uplvr/intro/limit.md)
-  - [技术架构](/Uplvr/intro/architecture.md)
+  - [技术架构](Uplvr/intro/architecture.md)
 - 购买指南
   - [计费规则](/Uplvr/buy/charge.md)
 - [操作指南](/Uplvr/guide/guide.md)
