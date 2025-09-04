@@ -1,7 +1,4 @@
 
-
-- 动态与公告
-  
 - 动态与公告
   - [新功能发布记录](/uplvr/newfunctions/newfunctions.md)
 - 产品介绍
